@@ -1,0 +1,6 @@
+framework module Pods_JSPatchSwift {
+  umbrella header "Pods-JSPatchSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

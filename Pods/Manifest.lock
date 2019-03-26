@@ -1,0 +1,26 @@
+PODS:
+  - JSPatch (1.1.3):
+    - JSPatch/Core (= 1.1.3)
+  - JSPatch/Core (1.1.3)
+  - JSPatchPlatformx (1.7.5)
+  - Neon (0.4.0)
+
+DEPENDENCIES:
+  - JSPatch
+  - JSPatchPlatformx
+  - Neon
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JSPatch
+    - JSPatchPlatformx
+    - Neon
+
+SPEC CHECKSUMS:
+  JSPatch: 02cfed591cb907bbfe80a346666e5a35fc2d349d
+  JSPatchPlatformx: d2856fff4e65c2d1e0ea3ac0498fc7dd2db559c9
+  Neon: 7fb5a9327e7e57911843f608e08f4893a74deaf9
+
+PODFILE CHECKSUM: c3b0e73297fc1b923433a9cdffe7df85b2ae7d74
+
+COCOAPODS: 1.6.1
